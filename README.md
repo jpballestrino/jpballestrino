@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @jpballestrino
 - 👀 I’m interested in ML
-- 🌱 I’m currently learning ML
-- 💞️ I’m looking to collaborate on ML
 - 📫 How to reach me juanpballestrino@gmail.com
 
 <!---
