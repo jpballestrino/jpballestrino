@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jpballestrino
-- 👀 I’m interested in ML
+- Electrical engineer
 - 📫 How to reach me juanpballestrino@gmail.com
 
 <!---
